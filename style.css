@@ -1,0 +1,8 @@
+ .img-wrapper {
+     position: relative;
+     height: 503px;
+     background: url(./footer.png), #140735;
+     background-position: bottom right;
+     background-size: contain;
+     background-repeat: no-repeat
+ }
